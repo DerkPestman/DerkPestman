@@ -5,10 +5,10 @@ Mechatronics engineer with a growing passion for Software development, Design an
 <p><i>"Never stop learning because life never stops teaching." </i> -Kirill Korshikov</p>
 
 ## 🌐Socials
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/derkpestman) 
- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DerkPestman/)
- [![Youtube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=Youtube&logoColor=#d16c06)](https://youtube.com/derkthedutchi/)
- 	www.youtube.com/@derkthedutchi
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/derkpestman) 
+ [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/DerkPestman/)
+ [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/derkthedutchi/)
+ <!-- www.youtube.com/@derkthedutchi --> 
 
 
 ## 💻Tech Stack
