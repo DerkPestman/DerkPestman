@@ -29,8 +29,10 @@ Mechatronics engineer with a growing passion for Software development, Design an
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white)
+
 ##
 <table border="0" align="center">
  <tr border="0">
