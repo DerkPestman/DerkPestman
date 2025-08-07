@@ -31,11 +31,15 @@ Mechatronics engineer with a growing passion for Software development, Design an
 <table border="0" align="center">
  <tr border="0">
   <td width="50%" align="center">
-   <img height="170" width="350" align="center"  src="https://leetcard.jacoblin.cool/DerkPestman?theme=dark&font=Roboto"/>
+   <img height="170" width="350" align="center" src="https://leetcard.jacoblin.cool/DerkPestman?theme=dark&font=Roboto"/>
   </td>
-<td width="50%" align="center">
-   <img height="150" width="320"  align="center"src="https://github-readme-stats-derkpestmans-projects.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>  
-![Most Used Languages](https://github-readme-stats-pi-gules-41.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+  <td width="50%" align="center">
+   <img height="150" width="320" align="center"
+     src="https://github-readme-stats-pi-gules-41.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+   />
+  </td>
+ </tr>
+</table>
 
 
 </td>
