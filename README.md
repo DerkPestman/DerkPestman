@@ -35,6 +35,9 @@ Mechatronics engineer with a growing passion for Software development, Design an
   </td>
 <td width="50%" align="center">
    <img height="150" width="320"  align="center"src="https://github-readme-stats-derkpestmans-projects.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>  
+![Most Used Languages](https://github-readme-stats-pi-gules-41.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+
 </td>
 </tr>
 </table>
