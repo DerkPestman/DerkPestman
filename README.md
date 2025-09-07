@@ -41,7 +41,7 @@ Mechatronics engineer with a growing passion for Software development, Design an
   </td>
   <td width="50%" align="center">
 <img height="150" width="320" align="center"
-     src="https://my-repository-taupe-gamma.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+     src="https://derk-pestman.vercel.app/api/top-langs?username=derkpestman&layout=compact&langs_count=10&theme=radical&v=1"
 />
   </td>
  </tr>
