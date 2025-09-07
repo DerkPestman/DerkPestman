@@ -41,8 +41,7 @@ Mechatronics engineer with a growing passion for Software development, Design an
   </td>
   <td width="50%" align="center">
 <img height="150" width="320" align="center"
-     src="https://derk-pestman.vercel.app/api/top-langs?username=derkpestman&layout=compact&langs_count=10&theme=radical&v=1"
-/>
+     src="https://derk-pestman.vercel.app/api?username=derkpestman&show_icons=true&theme=radical&v=1"/>
   </td>
  </tr>
 </table>
