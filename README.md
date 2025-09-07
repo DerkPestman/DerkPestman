@@ -40,9 +40,9 @@ Mechatronics engineer with a growing passion for Software development, Design an
    <img height="170" width="350" align="center" src="https://leetcard.jacoblin.cool/DerkPestman?theme=dark&font=Roboto"/>
   </td>
   <td width="50%" align="center">
-   <img height="150" width="320" align="center"
-     src="https://github-readme-stats-pi-gules-41.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-   />
+<img height="150" width="320" align="center"
+     src="https://my-repository-taupe-gamma.vercel.app/api/top-langs/?username=derkpestman&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
+/>
   </td>
  </tr>
 </table>
