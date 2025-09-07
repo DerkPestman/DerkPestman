@@ -35,13 +35,14 @@ Mechatronics engineer with a growing passion for Software development, Design an
 
 ##
 <table border="0" align="center">
- <tr border="0">
+ <tr>
   <td width="50%" align="center">
-   <img height="170" width="350" align="center" src="https://leetcard.jacoblin.cool/DerkPestman?theme=dark&font=Roboto"/>
+    <img height="170" width="350" align="center"
+         src="https://leetcard.jacoblin.cool/DerkPestman?theme=dark&font=Roboto" />
   </td>
   <td width="50%" align="center">
-<img height="150" width="320" align="center"
-     src="https://derk-pestman.vercel.app/api/top-langs?username=derkpestman&layout=compact&langs_count=10&theme=radical&v=1"/>
+    <img height="150" width="320" align="center"
+         src="https://raw.githubusercontent.com/DerkPestman/DerkPestman/main/languages.svg" />
   </td>
  </tr>
 </table>
